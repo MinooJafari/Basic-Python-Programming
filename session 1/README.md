@@ -1,5 +1,9 @@
 # Digit Counter 
 
+##Project Description
+
+This project focuses on basic number analysis using Python. It includes functions for counting specific digits, checking divisibility, and identifying numbers within a given range.
+
 ## Features
 
 - **Digit Counting:** Counts how many times digit 5 appears in a number.
