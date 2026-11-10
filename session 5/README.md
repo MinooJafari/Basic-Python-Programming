@@ -1,4 +1,4 @@
-# Image Processing with Python
+# Image Processing with numpy
 
 ## Overview
 This project focuses on learning and practicing practical image processing techniques using Python in Jupyter Notebook. It introduces fundamental concepts of working with digital images, manipulating image data, and applying basic image processing operations.
