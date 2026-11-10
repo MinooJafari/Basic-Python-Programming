@@ -1,6 +1,6 @@
 # Digit Counter 
 
-##Project Description
+Project Description:
 
 This project focuses on basic number analysis using Python. It includes functions for counting specific digits, checking divisibility, and identifying numbers within a given range.
 
